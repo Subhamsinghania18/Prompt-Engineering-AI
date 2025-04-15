@@ -1,0 +1,1 @@
+Hello, I am Subham Singhania, here i am going to showcase my knowledge of ai prompt engineering with relevant production ready prompts with proper documentation and examples so they are easy to understand.
